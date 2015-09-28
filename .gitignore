@@ -211,3 +211,7 @@ Obj/
 *.userprefs
 
 *.DS_store
+RailEngine/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+RailEngine/Assets/waypoints.txt.meta
+RailEngine/Assets/waypoints.txt.meta
+RailEngine/Assets/waypoints.txt.meta
